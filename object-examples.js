@@ -7,3 +7,12 @@ var car = {
   color: "Black",
   isCertified: true
 }
+
+var animal = {
+  name: "Appachi",
+  species: "Dog",
+  age: 4,
+  breed: "Pomski",
+  color: ["Black", "White"],
+  isTrained: true
+}
