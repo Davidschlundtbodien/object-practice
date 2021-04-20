@@ -16,3 +16,12 @@ var animal = {
   color: ["Black", "White"],
   isTrained: true
 }
+
+var customer = {
+  firstName: "Bob",
+  lastName: "Smith",
+  email: "bsmith@mail.com",
+  isPremium: true,
+  rewardPoints: 2000,
+  cartItems: ["Lawn mower", "Hedge trimmers", "Gas can"]
+}
